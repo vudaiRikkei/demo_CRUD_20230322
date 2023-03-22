@@ -1,0 +1,22 @@
+CRUD 1 chương trình quản lý sản phẩm
+______________
+product
+_____________
+Id: int
+Name: String
+Price: double
+Quantity: long
+Brand: string
+Color: String
+_______________
+Getter();
+Setter()
+Tostring()
+Constructor();
+_______________
+Menu:
+1.	Show all sản phẩm
+2.	Thêm sản phẩm
+3.	Sửa sản phẩm theo id
+4.	Xóa sản phẩm theo id
+
